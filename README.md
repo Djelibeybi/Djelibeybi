@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD026 -->
 # Who am I?
 
 Setting the more existential question aside, I am [Avi Miller](https://omg.dje.li).
@@ -28,7 +29,6 @@ I'm particularly proud of two things I've dabbled with and noodled on:
    that implements the [LIFX Day & Dusk](https://omg.dje.li/docker-lifx-daydusk/)
    functionality locally without any reliance on the LIFX Cloud. It also provides
    far more granular control of the transitions and bulb selection.
-
 
 ## What's not here
 
