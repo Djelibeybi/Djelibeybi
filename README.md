@@ -34,15 +34,20 @@ I'm particularly proud of two things I've dabbled with and noodled on:
 
 Stuff I manage professionally. That can be found at <https://github.com/oracle>.
 
-I maintain the following two repos:
+I maintain the following repos:
 
-* <https://github.com/oracle/docker-images>
 * <https://github.com/oracle/linux-labs>
+* <https://github.com/oracle/docker-images>
 
 I contribute to the following repos:
 
 * <https://github.com/oracle/vagrant-projects>
 
+I also manage the official Oracle Linux images on the Docker Hub and GitHub
+Container Registry. The source of those images can be found at:
+
+* <https://github.com/oracle/container-images>
+
 I am also one of the GitHub administrators for Oracle. If you have any questions
 about Oracle's open source projects or contributions, please email the team
-at <opensource_grp_ww@oracle.com>.
+at <opensource_ww_grp@oracle.com>.
