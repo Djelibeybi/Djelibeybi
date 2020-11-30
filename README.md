@@ -17,10 +17,10 @@ I am not developer. I don't even pretend to be one on the internet.
 I _dabble_. Every so often, I may _noodle_ on things too. The results of my
 dabbling and noodling may be found in the various repos herein contained.
 
-I'm particularly proud of two things I've dabbled with and noodled on:
+I'm particularly proud of two personal things I've dabbled with and noodled on:
 
 * [**homebridge-button-platform**](https://github.com/Djelibeybi/homebridge-button-platform):
-  this is a plugin to [Homebridge](https://homebridge.io) allows you to add
+  this is a plugin to [Homebridge](https://homebridge.io) that allows you to add
   [Flic buttons](https://omg.dje.li/2020/02/adding-flic-buttons-to-homekit-using-homebridge/)
   or an [Elgato Stream Deck](https://omg.dje.li/2020/05/triggering-homekit-automations-using-an-elgato-stream-deck/)
   to HomeKit.
@@ -29,6 +29,10 @@ I'm particularly proud of two things I've dabbled with and noodled on:
    that implements the [LIFX Day & Dusk](https://omg.dje.li/docker-lifx-daydusk/)
    functionality locally without any reliance on the LIFX Cloud. It also provides
    far more granular control of the transitions and bulb selection.
+
+I'm also rather proud of my contributions to [Photons](https://github.com/delfick/photons),
+a Python 3.6+ framework for interacting with LIFX products. Photons is used by
+the `docker-lifx-daydusk` container.
 
 ## What's not here
 
