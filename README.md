@@ -3,8 +3,7 @@
 
 Setting the more existential question aside, I am [Avi Miller](https://omg.dje.li).
 
-During the day, I am a senior manager in the [Oracle Linux and Virtualization](https://oracle.com/linux)
-product management team.
+During the day, I work for Oracle. More on this later.
 
 At night and on weekends, my love for technology extends to annoying my husband
 with smart home upgrades as well as more useful stuff like volunteering for
