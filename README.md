@@ -3,9 +3,7 @@
 
 Setting the more existential question aside, I am [Avi Miller](https://omg.dje.li).
 
-During the day, I am a solution architect in the developer adoption team for
-[Oracle Cloud Infrastructure](https://cloud.oracle.com). If there is a tool
-you use that needs support for or integration with OCI, please let me know!
+During the day, I do open source things for [Oracle Cloud Infrastructure](https://cloud.oracle.com). 
 
 At night and on weekends, my love for technology extends to annoying my husband
 with smart home upgrades as well as more useful stuff like volunteering for
@@ -13,11 +11,11 @@ community-based organizations.
 
 ## What's here
 
-I am not actually a real developer, but I sometimes pretend to be one on the
+I am not actually a real developer, but I'm very good at pretending to be one on the
 internet.
 
-More often I _dabble_. Every so often, I may _noodle_ on things too. The results
-of my dabbling and noodling may be found in the various repos herein contained.
+Mostly I _dabble_. Every now and then I _noodle_ on things too. The results
+of my dabbling and noodling can be found in the various repos herein contained.
 
 I'm particularly proud of two personal things I've dabbled with and noodled on:
 
@@ -38,22 +36,24 @@ the `docker-lifx-daydusk` container.
 
 ## What's not here
 
-Stuff I manage professionally. That can be found at <https://github.com/oracle>.
+Stuff I maintain professionally for [Oracle](https://opensource.oracle.com) including
+the following repos:
 
-I maintain the following repos:
-
-* <https://github.com/oracle/linux-labs>
 * <https://github.com/oracle/docker-images>
+* <https://github.com/oracle/centos2ol>
 
 I contribute to the following repos:
 
 * <https://github.com/oracle/vagrant-projects>
 
-I also manage the official Oracle Linux images on the Docker Hub and GitHub
-Container Registry. The source of those images can be found at:
+I manage the [official Oracle Linux images](https://hub.docker.com/_/oraclelinux)
+on [Docker Hub](https://hub.docker.com), 
+the [Oracle Container Registry](https://container-registry.oracle.com) and the
+[GitHub Container Registry](https://github.com/orgs/oracle/packages)
+which are built from the `rootfs` tarballs in this repo:
 
 * <https://github.com/oracle/container-images>
 
-I am also one of the GitHub administrators for Oracle. If you have any questions
+Finally, I am also one of the GitHub administrators for Oracle. If you have any questions
 about Oracle's open source projects or contributions, please email the team
 at <opensource_ww_grp@oracle.com>.
